@@ -8,8 +8,8 @@ Compatible with OpenCart 3.x versions.
 * Show the newest products first.
 * Simple as pie!
 * There are two types of the extension to download:
-  - 1. [sort-by-newest--default.ocmod.zip](../addons/default/zip/sort-by-newest--default.ocmod.zip) - use this sorting as *Default* sorting method.
-  - 2. [sort-by-newest--additional.ocmod.zip](../addons/additional/zip/sort-by-newest--additional.ocmod.zip) - adds a new sorting method - *Newest first*.
+  - 1. [sort_by_newest__default.ocmod.zip](../addons/default/zip/sort_by_newest__default.ocmod.zip) - use this sorting as *Default* sorting method.
+  - 2. [sort_by_newest__additional.ocmod.zip](../addons/additional/zip/sort_by_newest__additional.ocmod.zip) - adds a new sorting method - *Newest first*.
 * Does not modify system files (OCMOD).
 
 ## Notes
